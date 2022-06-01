@@ -1,0 +1,60 @@
+.card-largura {
+    max-width: 18rem;
+}
+
+.imagem-carrossel-um {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.imagem-carrossel-dois {
+    object-fit: cover;
+    /*object-position: 0 80%;*/
+    height: 400px;
+}
+
+.imagem-carrossel-tres {
+    object-fit: cover;
+    /*object-position: 0 80%;*/
+    height: 400px;
+}
+
+.fonte-titulo {
+    color: chartreuse;
+}
+
+.cor-especial {
+    color: rgb(23, 27, 35)!important;
+}
+
+.botao-cor-especial {
+    background-color: rgb(108, 177, 47);
+    color: white;
+}
+
+.borda-cor-especial {
+    border-color: rgb(115, 225, 119);
+}
+
+.card-posicao-imagem {
+    object-fit: cover;
+   /* object-position: 0 80%;*/
+    height: 200px;
+}
+
+.minha-receitas {
+    background: red;
+
+}
+
+.menu-navegacao {
+    background: rgb(255, 255, 255);
+}
+.cor-link {
+    color: black!important;
+}
+
+footer{
+    width: 100%;
+}
