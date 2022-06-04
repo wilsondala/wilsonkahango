@@ -1,0 +1,63 @@
+body{
+    background-color: rosybrown;
+}
+
+.carousel-item {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.produto{
+    text-align: center;
+}
+ 
+section {
+    padding-bottom: 4rem;
+    padding-top: 4rem;
+    
+    
+    
+}
+
+input,
+textarea {
+    margin: 5px;
+    margin-bottom: 4rem;
+}
+
+.card {
+    width: 30%;
+    float: left;
+    margin: 5px;
+}
+
+.principal {
+    color: rgb(81, 54, 156);
+  background-color: rosybrown;
+  font-family: 'Montserrat', sans-serif;
+  background: radial-gradient(circle at -8.9% 51.2%, rgb(255, 124, 0) 0%, rgb(255, 124, 0) 15.9%, rgb(255, 163, 77) 15.9%, rgb(255, 163, 77) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%);
+}
+
+.titulo-cabelo{
+    color: white;
+    font-family: 'Pacifico', cursive;
+    
+}
+.contato{
+    width: 10%;
+}
+
+.ator{
+    text-align: center;
+    background: fixed;
+    background-color: black;
+    color: aliceblue;
+}
+
+.botao-mensagem, .botao-preço{
+    margin: 5px;
+    background-color: rgb(221, 0, 255);
+   
+}
+
