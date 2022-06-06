@@ -239,7 +239,7 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background: #101013;
-    content: "Que oferecemos";
+    content: "";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
@@ -273,7 +273,7 @@ section .title::after{
 }
 /*  sessão especialidades  */
 .skills .title::after{
-    content: "Que faço";
+    content: "";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
@@ -411,7 +411,7 @@ section .title::after{
 }
 /*  sessão Contato  */
 .contact .title::after{
-    content: "Fale conosco";
+    content: "";
 }
 .contact .contact-content .column{
     width: calc(50% - 30px);
