@@ -186,7 +186,7 @@ section .title::after{
 /*  sessão sobre  */
 
 .about .title::after{
-    content: "Quem sou eu";
+    content: ";
 }
 .about .about-content .left{
     width: 45%;
